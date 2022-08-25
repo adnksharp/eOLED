@@ -8,6 +8,7 @@ Usar pantalla OLED con nodeMCU ESP8266 y librerías de Adafruit.
 - Placa de desarrollo nodeMCU ESP8266.
 - Diplay OLED.
 - [Arduino IDE](https://www.arduino.cc/en/software) o [Arduino CLI](https://arduino.github.io/arduino-cli/0.23/installation/).
+- Librerías `Wire`, `Adafruit_GFX` y `Adafruit_SSD1306`.
 
 ## Funcionamiento
 ### Variables
